@@ -1,0 +1,15 @@
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\bin\Debug\net6.0\PatikaDevC.exe
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\bin\Debug\net6.0\PatikaDevC.deps.json
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\bin\Debug\net6.0\PatikaDevC.runtimeconfig.json
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\bin\Debug\net6.0\PatikaDevC.dll
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\bin\Debug\net6.0\PatikaDevC.pdb
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.csproj.AssemblyReference.cache
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.AssemblyInfoInputs.cache
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.AssemblyInfo.cs
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.csproj.CoreCompileInputs.cache
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.dll
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\refint\PatikaDevC.dll
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.pdb
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\PatikaDevC.genruntimeconfig.cache
+C:\Users\abdbl\Documents\GitHub\C-Patikadev-Project\PatikaDevC\PatikaDevC\obj\Debug\net6.0\ref\PatikaDevC.dll
